@@ -1,0 +1,128 @@
+{
+    "transfer_money": [
+      "transfer money", "send money", "move funds", "send funds", "transfer to",
+      "money transfer", "wire transfer", "send amount", "move money", "transfer cash",
+      "pay someone", "send payment", "funds transfer", "transfer balance"
+    ],
+    "check_balance": [
+      "check balance", "account balance", "balance inquiry", "balance check",
+      "how much money", "what is my balance", "account statement", "balance status",
+      "check my account balance", "how much is in my account", "account balance check"
+    ],
+    "loan_inquiry": [
+      "loan", "personal loan", "apply for loan", "loan inquiry", "loan application",
+      "loan details", "how to get a loan", "get a loan", "loan eligibility",
+      "home loan", "auto loan", "car loan", "loan rates", "apply for personal loan"
+    ],
+    "open_account": [
+      "open account", "create account", "new account", "open a new account", "account opening",
+      "open savings account", "create checking account", "open joint account", "open business account",
+      "start a new account", "how to open an account", "how to create a new account"
+    ],
+    "close_account": [
+      "close account", "cancel account", "terminate account", "deactivate account", "account closure",
+      "how to close my account", "end my account", "shut down account", "close my savings account"
+    ],
+    "fund_transfer_status": [
+      "transfer status", "check transfer status", "fund transfer status", "track transfer",
+      "status of my transfer", "was my transfer successful", "did the money transfer go through",
+      "did the payment go through", "transaction status"
+    ],
+    "help": [
+      "help", "assist", "guide", "support", "need help", "can you help", "help me", "what can you do",
+      "I need assistance", "how can you help me", "customer support", "contact support", "faq"
+    ],
+    "check_loan_status": [
+      "check loan status", "loan status", "status of my loan", "loan application status", "check my loan progress",
+      "has my loan been approved", "loan approval status", "is my loan approved"
+    ],
+    "update_account_details": [
+      "update account", "change account details", "modify account details", "update personal details", 
+      "change contact information", "update phone number", "update email address", "change address"
+    ],
+    "deposits": [
+      "deposit", "make a deposit", "deposit money", "how to deposit money", "deposit funds",
+      "funds deposit", "make a bank deposit", "deposit into account", "check deposit"
+    ],
+    "withdrawals": [
+      "withdraw", "make a withdrawal", "withdraw money", "how to withdraw money", "cash withdrawal", 
+      "withdraw from account", "ATM withdrawal", "withdraw funds"
+    ],
+    "view_transactions": [
+      "view transactions", "transaction history", "check transactions", "view my transactions", "my transaction history",
+      "show me my recent transactions", "how to view transactions", "transaction list"
+    ],
+    "account_balance_inquiry": [
+      "check account balance", "view my balance", "how much is in my account", "what is my current balance",
+      "balance inquiry", "show balance", "account balance status"
+    ],
+    "order_checkbook": [
+      "order checkbook", "request checkbook", "get new checkbook", "order checks", "new checkbook",
+      "checkbook request", "how to order a checkbook"
+    ],
+    "apply_credit_card": [
+      "apply for credit card", "get a credit card", "credit card application", "how to apply for credit card",
+      "credit card details", "request credit card", "apply for a new credit card"
+    ],
+    "credit_card_payment": [
+      "pay credit card bill", "credit card payment", "pay my credit card", "make credit card payment", 
+      "pay off credit card", "how to pay credit card bill", "credit card payment status"
+    ],
+    "investment_inquiry": [
+      "investment", "how to invest", "investment options", "invest money", "invest in stocks", "mutual funds",
+      "investment plans", "invest in bonds", "investment opportunities"
+    ],
+    "transfer_money_abroad": [
+      "send money abroad", "international money transfer", "transfer money overseas", "send funds internationally",
+      "wire transfer abroad", "transfer money internationally", "send money to another country"
+    ],
+    "change_pin": [
+      "change pin", "update pin", "set a new pin", "reset pin", "forgot pin", "change my security pin"
+    ],
+    "verify_identity": [
+      "verify identity", "identity verification", "verify my identity", "confirm identity", "identity check"
+    ],
+    "update_password": [
+      "update password", "change password", "reset password", "forgot password", "set new password"
+    ],
+    "report_fraud": [
+      "report fraud", "fraud alert", "suspicious activity", "report suspicious transaction", "fraud reporting",
+      "suspicious charge", "fraudulent activity", "unauthorized transaction"
+    ],
+    "transaction_dispute": [
+      "dispute transaction", "transaction dispute", "dispute a payment", "charge dispute", "dispute charge",
+      "report wrong charge", "incorrect transaction", "transaction error"
+    ],
+    "request_statement": [
+      "request statement", "bank statement", "get bank statement", "download bank statement", "account statement",
+      "monthly statement", "view statement"
+    ],
+    "check_credit_score": [
+      "check credit score", "credit score", "view credit score", "my credit score", "check credit report",
+      "view credit report"
+    ],
+    "currency_exchange": [
+      "currency exchange", "exchange rates", "buy foreign currency", "sell currency", "convert currency",
+      "currency conversion", "how to exchange currency"
+    ],
+    "international_payments": [
+      "international payments", "pay internationally", "cross-border payment", "global payment", "send money globally"
+    ],
+    "request_loan": [
+      "request loan", "apply for loan", "loan application", "request for personal loan", "apply for a home loan"
+    ],
+    "view_savings_account": [
+      "view savings account", "check savings balance", "savings account inquiry", "how much in my savings account"
+    ],
+    "view_credit_account": [
+      "view credit account", "check credit card balance", "credit account balance", "view credit limit"
+    ],
+    "request_loan_replication": [
+      "replicate loan", "apply for similar loan", "request loan replication", "copy loan application", "loan replication"
+    ],
+    "online_banking": [
+      "online banking", "internet banking", "mobile banking", "banking app", "access bank account online", 
+      "how to use online banking", "login to online banking"
+    ]
+  }
+  
